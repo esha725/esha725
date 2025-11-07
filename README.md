@@ -15,7 +15,7 @@ A simple app that converts **INR to USD**.
 - Used hardcoded values just to focus on functionality.  
 
 🔗 [View Live on Netlify](https://currency-converter-esha.netlify.app/)  
-💻 View Code on GitHub  
+💻 View Code on GitHub (https://github.com/esha725/Currency_Converter.git)
 
 ---
 
@@ -25,7 +25,7 @@ An app that shows **real-time weather updates** for any city using the **OpenWea
 - Integrated API calls for live weather data and learned about async programming.  
 
 🔗 [View Live on Netlify](https://minimalisst-weather-app.netlify.app/)  
-💻 View Code on GitHub  
+💻 View Code on GitHub (https://github.com/esha725/weather_app.git)
 
 ---
 
@@ -35,7 +35,7 @@ A beginner-friendly **shopping app** focused on navigation and state management.
 - Practiced data flow between screens and basic cart handling.  
 
 🔗 [View Live on Netlify](https://shoes-shop-app.netlify.app/)  
-💻 View Code on GitHub  
+💻 View Code on GitHub (https://github.com/esha725/Shopping_app.git) 
 
 ---
 
